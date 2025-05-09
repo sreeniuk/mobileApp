@@ -1,7 +1,7 @@
 package com.sreeni;
 
 /**
- * Hello world!
+ * Hello world! testing
  *
  */
 public class App 
