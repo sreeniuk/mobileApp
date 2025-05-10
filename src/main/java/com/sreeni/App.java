@@ -13,6 +13,7 @@ public class App
         System.out.println("testing3");
         System.out.println("Adding code from ec");
         System.out.print("tesintg from EC");
+        System.out.print("tesintg from EC");
 
     }
 
