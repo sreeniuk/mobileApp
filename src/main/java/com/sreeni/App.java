@@ -17,6 +17,7 @@ public class App
         System.out.print("tesintg from EC1");
         System.out.print("tesintg from EC2");
         System.out.print("tesintg from C");
+        System.out.print("tesintg from from onoline");
 
     }
 
